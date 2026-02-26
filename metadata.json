@@ -1,0 +1,7 @@
+{
+  "name": "Zenith Particles - Gesture Controlled 3D System",
+  "description": "A professional real-time interactive particle visualization system powered by Three.js and MediaPipe hand tracking. Control 100k+ particles with natural hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
